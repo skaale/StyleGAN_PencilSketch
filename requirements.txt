@@ -1,0 +1,23 @@
+# Deep Learning Framework
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Image Processing
+Pillow>=9.0.0
+numpy>=1.21.0
+
+# Web Scraping (for download_images.py)
+selenium>=4.1.0
+requests>=2.28.0
+urllib3>=1.26.0
+
+# Progress Bars and Utils
+tqdm>=4.65.0
+
+# Optional: CUDA support (uncomment if needed)
+# torch>=2.0.0+cu118  # For CUDA 11.8
+# torch>=2.0.0+cu121  # For CUDA 12.1
+
+# Optional: Jupyter support (uncomment if needed)
+# jupyter>=1.0.0
+# ipython>=8.0.0 
